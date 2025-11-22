@@ -1,0 +1,9 @@
+{
+    "dashboard_route": "/dashboard",
+    "webroot": "content",
+    "default_page": "index.html",
+    "routes": {
+        "/about": "about.html",
+        "/contact": "contact.html"
+    }
+}
